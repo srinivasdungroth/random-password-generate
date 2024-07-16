@@ -30,3 +30,6 @@ Numbers
 Special Characters
 Click the "Generate Password" button to create a new password.
 Use the "Copy" button to copy the generated password to your clipboard.
+
+
+<img src="ss.1.png">
